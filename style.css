@@ -1,0 +1,19 @@
+body {
+  text-align: center;
+}
+
+.bob3 {
+  background: grey;
+  padding: 20px;
+  border-radius: 8%;
+  width: 50%;
+  text-align: left;
+}
+
+.bob4 {
+  background: rgb(241, 11, 11);
+  padding: 20px;
+  border-radius: 8%;
+  width: 50%;
+  text-align: left;
+}
